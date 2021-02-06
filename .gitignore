@@ -1,0 +1,4 @@
+#compiled and idea directories
+**/.idea
+**/out
+*.class
